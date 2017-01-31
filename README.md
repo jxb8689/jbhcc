@@ -1,2 +1,2 @@
 # jbhcc
-repository for my portfolio site
+Site build in progress, please be patient
